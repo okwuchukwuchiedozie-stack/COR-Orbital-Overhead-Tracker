@@ -52,6 +52,3 @@ python main.py
 ```
 
 ---
-
-## ⚖️ License
-Distributed cleanly under the custom **COR_CARES** Development Framework. Copyright &copy; 2026. All rights reserved.
